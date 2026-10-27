@@ -16,7 +16,7 @@ The following prompts were executed in the Cursor workspace during development[c
 
 "Add a function that counts how many students scored above the class average. Use the same prompt again in a fresh conversation after the rules file has been created, then compare the two."[cite: 2, 3]
 
-Workflow & Rule Execution Prompt:
+## Workflow & Rule Execution Prompt:
 
 "I'll check the project, the create-rule skill, and how the above-average count is handled so we can add the function and set up a rules file for a later comparison."[cite: 2, 3]
 
